@@ -40,8 +40,8 @@ html {
     url('photographer.jpg');
 
   /* Set a specific height */
-  height: 50%;
-
+  height: 620px;
+  width: 350px;
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
